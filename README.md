@@ -1,7 +1,7 @@
-HP EliteDesk 800 G4 Hackintosh
+HP EliteDesk 800 G4 Mini 35W Hackintosh
 -----------------------------------
 
-OpenCore Setup for HP EliteDesk 800 G4
+OpenCore Setup for HP EliteDesk 800 G4 Mini 35W
 
 ## Version Info:
 - macOS Catalina 10.15.5
